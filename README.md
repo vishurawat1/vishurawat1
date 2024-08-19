@@ -1,3 +1,5 @@
+[![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)](https://RishabhhG.io)
+
 <h1 align="left">Hey 👋 What's up?</h1>
 
 ###
@@ -5,7 +7,7 @@
 <p align="left">My name is Vishwajeet Rawat and I'm a Front-End Developer.</p>
 
 ###
-
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
 <p align="left">💻 A programmer with an ardent passion for Full Stack Development<br>🔭 Second year Computer science @ VIT Bhopal<br>🌱 Currently Learning Backend Development</p>
 
 ###
