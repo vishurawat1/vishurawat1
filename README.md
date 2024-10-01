@@ -38,6 +38,4 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/vishurawat1/vishurawat1/output/snake.svg" alt="Snake animation" />
-
 ###
