@@ -4,11 +4,11 @@
 
 ###
 
-<p align="left">My name is Vishwajeet Rawat and I'm a Front-End Developer.</p>
+<p align="left">My name is Vishwajeet Rawat and I'm a FullStack Developer (LLM, NLP, RAG).</p>
 
 ###
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
-<p align="left">💻 A programmer with an ardent passion for Full Stack Development<br>🔭 Second year Computer science @ VIT Bhopal<br>🌱 Currently Learning Backend Development</p>
+<p align="left">💻 A programmer with an ardent passion for Full stack development and ai integration<br>🔭 Final year Computer science @ VIT Bhopal<br>🌱 Currently mastering cloud infrastructure</p>
 
 ###
 
